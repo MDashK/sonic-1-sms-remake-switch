@@ -9,9 +9,11 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 **Some notes/Expected bugs and issues:**
 
 1. Horizontal joycon hold type play is not supported. You can play with Pro controller, Handheld mode or Joycon Dual mode.
-2. In Competition mode, when creating a room (acting as a server for the game), you won't be able to see the character your rival is selecting in the character selection screen.
+2. In Competition mode, you won't be able to see the character your rival is selecting in the character selection screen.
 
 --------------------
+
+**Update** *06 Oct. 2022*: Small bugfix to the save system.
 
 **Changelog:**
 
