@@ -1,21 +1,64 @@
-# Sonic 1 SMS Remake Switch
+# Sonic SMS Remake NSW
 
-A port of the fangame **Sonic 1 SMS Remake** for the **Nintendo Switch**.
-
-**Competition works! And you can even cross-play between versions PC/Android/PS4/NSW.**
+A port of the fangame **Sonic SMS Remake** for the **Nintendo Switch**.
 
 Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
+
+**Highlights of the latest update:**
+
+• Fixed major memory leak **(no more crashes! \o/)**
+<br>
+• 60 FPS mode!
+<br>
+• Lots of other optimizations
 
 **Some notes/Expected bugs and issues:**
 
 1. Horizontal joycon hold type play is not supported. You can play with Pro controller, Handheld mode or Joycon Dual mode.
-2. In Competition mode, you won't be able to see the character your rival is selecting in the character selection screen.
+2. Competition has been removed. Unfortunately, due to a bug, the mode has been temporarily disabled.
 
 --------------------
 
-**Update** *06 Oct. 2022*: Small bugfix to the save system.
-
 **Changelog:**
+
+
+**v1.9 rev.2:**
+
+- Now in 60 FPS (switch 30/60 modes)
+
+- New optimization system
+
+- New main camera
+
+- New menu: Gameplay
+
+- New Badnik Roller in Spring Yard Zone
+
+- New chain sound effects in Marble Zone
+
+- New physics of Ray the Flying Squirrel
+
+- Spring Yard Act 2 level design changes
+
+- Mask bug fixed on big buttons at Zones
+
+- Polishing the physics of zones
+
+- Correction in the Shaders of Labyrinth Zone
+
+- Option to enable/disable Air Jump
+
+- Change(B) button is used as a back function in the options
+
+- Removed cameras option
+
+- Super animation fix
+
+- Fixed bugs on platforms
+
+- General review of the game by Beta Testers
+
+- Updated credits
 
 
 **v1.9:**
